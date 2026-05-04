@@ -142,7 +142,7 @@ The setup cost is a one-time 3-hour build. The running cost is $0. And it works 
 
 I build no-code and low-code automations for small businesses, coaches, and freelancers. If you're spending time on repetitive tasks that a system could handle, let's talk.
 
-📬 [your@email.com](mailto:sherozonline@gmail.com)
+📬 [Email me](mailto:sherozonline@gmail.com)
 🔗 [GitHub Portfolio](https://github.com/sherozsamatov)
 
 ---
